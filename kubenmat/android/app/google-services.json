@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "973064254676",
+    "project_id": "kubenmat-bf328",
+    "storage_bucket": "kubenmat-bf328.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973064254676:android:edf082f8021ed62d513741",
+        "android_client_info": {
+          "package_name": "com.example.kubenmat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973064254676-592q8gmtld0m0orn7t2nc3bknsb4h1fc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kubenmat",
+            "certificate_hash": "a1365ce6c35378d70938b78dca4e46fdb15f1cbe"
+          }
+        },
+        {
+          "client_id": "973064254676-pemqme1afr8hnetduu376rj7cpmbg03d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCF7iW7kJrBdOgOtVIN6j1UXIZEdhc5hY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973064254676-pemqme1afr8hnetduu376rj7cpmbg03d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

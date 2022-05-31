@@ -1,0 +1,44 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "kubenmat",
+            "cwd": "kubenmat",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "windows"
+        },
+        {
+            "name": "kubenmat app",
+            "cwd": "kubenmat",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "emulator-5554",
+            "flutterMode": "debug"
+        },
+        {
+            "name": "kubenmat web",
+            "cwd": "kubenmat",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "chrome"
+        },
+        {
+            "name": "kubenmat desktop",
+            "cwd": "kubenmat",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "windows"
+        },
+        {
+            "name": "kubenmat (profile mode)",
+            "cwd": "kubenmat",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        }
+    ]
+}
